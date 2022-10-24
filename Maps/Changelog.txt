@@ -1,0 +1,14 @@
+22/10/2022
+	First published.
+24/10/2022
+	Darkened colour of McGill's Scotland East X10 to make more visible.
+	Lightened colour of First Greater Glasgow 19 to better differentiate against black of motorways.
+	Added more annotations to various routes.
+	Fixed motorway route near the City Centre and added annotations.
+	Added Lanarkshire area and started adding routes.
+	Added route 329 (City area).
+	Added route operator labels for Partick.
+	Corrected line of route 8 in Robroyston area.
+	Added basic annotation for road M8 in Riddrie area.
+	Added route direction arrows for various routes.
+	Removed black border from route numbers annotation to make PDF look better.
