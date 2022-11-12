@@ -12,3 +12,9 @@
 	Added basic annotation for road M8 in Riddrie area.
 	Added route direction arrows for various routes.
 	Removed black border from route numbers annotation to make PDF look better.
+12/11/2022
+	Added Avondale Coaches routes in Clydebank.
+	Added majory of Lanarkshire routes.
+	Added major routes in Dumbartonshire.
+	Added detail view for Drumchapel termini.
+	Altered various route annotations.
